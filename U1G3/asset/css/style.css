@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header div p {
+  background-color: #cecb3e;
+  padding: 20px;
+  text-align: center;
+}
+div {
+  text-align: left;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px;
+}
+
+h2,
+h3 {
+  border-bottom: 1px solid #167fc5;
+}
+
+h1 {
+  font-size: 2em;
+  color: #1c1a1a;
+  border-top: 10px;
+}
+h2,
+h3 {
+  font-size: 1.5em;
+  color: #1c1a1a;
+  border-top: 10px;
+}
+.lead {
+  font-size: 1em;
+  text-align: left;
+}
+.ccc {
+  text-align: center;
+  padding: 80px;
+}
+.justify {
+  text-align: justify;
+  padding: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.titoletti {
+  font-size: 1em;
+  color: #1c1a1a;
+  font-weight: bold;
+}
